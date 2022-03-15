@@ -1,16 +1,13 @@
-### Hi there 👋
-
-
+### Hi there 👋 
 Meu nome Ana Paula Venzon
 
 HOBBIES: ler, ouvir música, assistir séries e filmes. Beber vinho e
          acompanhamentos que harmonizam.
-         
+       
 FORMAÇÃO: técnico em contabilidade
           programa Starter Full Stack Web Developer
    
-Experiência profissional na área fiscal, controle de estoque, compras na indústria, comeércio e importação. Implantação sistema TOTVS.  
-          
+Experiência profissional na área fiscal, controle de estoque, compras na indústria, comércio e prestação de serviços. Implantação sistema TOTVS.           
  Linguagem de programação favorita ainda em processo de descoberta. Estudando
  aplicações Web.
  
