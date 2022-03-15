@@ -20,6 +20,9 @@ Experiência profissional na área fiscal, controle de estoque, compras na indú
     <a href="https://www.instagram.com/anapaulavenzon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:venzongrowdev@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   </div>
-
-
+<div align="center">
+  <a href="htts://github.com/leticialealpe   r
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialealperez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_privat
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialealperez&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
  
