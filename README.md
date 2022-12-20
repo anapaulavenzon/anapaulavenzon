@@ -16,7 +16,7 @@ Experiência profissional na área fiscal, controle de estoque, compras na indú
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapaulavenzon&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulavenzon&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
-##
+
  Como me encontrar...
     <div>
     <a href="https://www.instagram.com/anapaulavenzon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
