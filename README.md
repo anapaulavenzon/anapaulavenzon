@@ -8,8 +8,7 @@ FORMAÇÃO: técnico em contabilidade
           programa Starter Full Stack Web Developer
    
 Experiência profissional na área fiscal, controle de estoque, compras na indústria, comércio e prestação de serviços. Implantação sistema TOTVS.           
- Linguagem de programação favorita ainda em processo de descoberta. Estudando
- aplicações Web.
+ Linguagem de programação HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT
  ##
  <div align="center">
   <a href="https://github.com/anapaulavenzon">
