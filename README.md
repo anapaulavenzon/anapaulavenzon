@@ -10,10 +10,15 @@ FORMAÇÃO: técnico em contabilidade
 Experiência profissional na área fiscal, controle de estoque, compras na indústria, comércio e prestação de serviços. Implantação sistema TOTVS.           
  Linguagem de programação favorita ainda em processo de descoberta. Estudando
  aplicações Web.
- 
+ ##
+ <div align="center">
+  <a href="https://github.com/anapaulavenzon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapaulavenzon&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulavenzon&layout=compact&langs_count=7&theme=city_lights"/>
+</div>
+##
  Como me encontrar...
- 
-   <div>
+    <div>
     <a href="https://www.instagram.com/anapaulavenzon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:venzongrowdev@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   </div>
@@ -22,4 +27,5 @@ Experiência profissional na área fiscal, controle de estoque, compras na indú
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapaulavenzon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_privat
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulavenzon&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
  
