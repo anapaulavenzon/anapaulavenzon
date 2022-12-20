@@ -20,7 +20,7 @@ Experiência profissional na área fiscal, controle de estoque, compras na indú
  Como me encontrar...
     <div>
     <a href="https://www.instagram.com/anapaulavenzon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:venzongrowdev@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+   <a href = "mailto:venzongrowdev@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
               <a href="https://www.linkedin.com/in/ana-paula-venzon-77a17a205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 <div align="center">
