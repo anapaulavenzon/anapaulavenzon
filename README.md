@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Meu nome Ana Paula Venzon
+<p>Meu nome <strong>Ana Paula Venzon</strong></p>
 
 HOBBIES: ler, ouvir música, assistir séries e filmes. Beber vinho e
          acompanhamentos que harmonizam.
